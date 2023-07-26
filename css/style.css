@@ -1,0 +1,124 @@
+ul{
+margin-left: 100px;
+      
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: baseline;
+}
+li{
+    line-height:19.55px;
+    width:129px ;
+    height: 20px;
+    color:#636060;}
+    a{
+        color: black;
+    
+    }
+    a:hover {
+    color:aqua;
+
+      }
+      .logo{
+        position:absolute
+
+      }
+     .droni{
+        
+        position:absolute;
+        width:100%;
+        height:100%
+     }
+     .littparis{
+        color:rgba(5, 235, 5, 0.685);
+        margin-top: 220px;
+        margin-left: 235px;
+        position: absolute;
+        font-size:80px;
+     }
+     .index2body{
+      
+        background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
+
+     }
+    .explore{
+       
+        color:rgb(126, 197, 221);
+        font-size: 100px;
+        margin-top: 80px;
+        margin-left: 500px;
+    }
+    .poti{
+        font-style: oblique;
+    position: absolute;
+    color:rgb(29, 179, 230);
+        font-size: 200px;
+        margin-left: 770px;
+    }
+    .info p{
+        color: rgb(3, 3, 139);
+        margin-left: 7px;
+    }
+    .info{
+        position: absolute;
+        border-radius: 10px;
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+        width: 450px;
+        height: 52px;
+        margin-left:15px
+    }
+    .infofortourist p{
+        color: rgb(3, 3, 139);
+    } 
+    .infofortourist{
+        position: absolute;
+        border-radius: 10px;
+        background: rgb(2,0,36);
+     
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+        margin-top: 80px;
+        margin-left:170px;
+        width: 300px;
+        height: 52px;
+    }
+    .location{
+        margin-left:40px;
+        position: absolute;
+        border-radius: 10px;
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+        margin-top:160px ;
+        width: 300px;
+        height: 120px;
+    }
+    .location p{
+        color: rgb(3, 3, 139);
+        margin-left: 15px;
+        margin-top: 6px;
+    }
+#submit{
+    position: absolute;
+    margin-top: 6px;
+    margin-left:210px ;
+    background-color:blue ;
+
+
+}
+#mappin{
+    margin-left: 190px;
+}
+.emotions label{
+   
+    color: blue;
+}
+#idea{
+    width: 300px;
+    height: 100px;
+}
+.emotions{
+    width: 400px;
+    margin-left: 870px;
+    margin-top: 50px;
+}
