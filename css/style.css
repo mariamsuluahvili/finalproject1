@@ -19,15 +19,15 @@ li{
     color:aqua;
 
       }
-      .logo{
-        position:absolute
+     
+     
 
-      }
+    
      .droni{
         
-        position:absolute;
+       position: absolute;
         width:100%;
-        height:100%
+       
      }
      .littparis{
         color:rgba(5, 235, 5, 0.685);
@@ -37,26 +37,28 @@ li{
         font-size:80px;
      }
      .index2body{
-      
+     
         background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
 
      }
     .explore{
        
+       
         color:rgb(126, 197, 221);
-        font-size: 100px;
-        margin-top: 80px;
-        margin-left: 500px;
+        font-size: 130px;
+        
+        margin-left: 550px;
     }
     .poti{
         font-style: oblique;
     position: absolute;
-    color:rgb(29, 179, 230);
+    color:rgb(13, 182, 238);
         font-size: 200px;
-        margin-left: 770px;
+        margin-left: 840px;
     }
     .info p{
+       
         color: rgb(3, 3, 139);
         margin-left: 7px;
     }
@@ -69,7 +71,10 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(
         height: 52px;
         margin-left:15px
     }
+   
+     
     .infofortourist p{
+        
         color: rgb(3, 3, 139);
     } 
     .infofortourist{
@@ -98,7 +103,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(
         margin-left: 15px;
         margin-top: 6px;
     }
-#submit{
+#vrclad{
     position: absolute;
     margin-top: 6px;
     margin-left:210px ;
@@ -114,11 +119,171 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(
     color: blue;
 }
 #idea{
-    width: 300px;
-    height: 100px;
+    position: absolute;
+    width: 270px;
+    height: 130px;
 }
 .emotions{
+   
     width: 400px;
-    margin-left: 870px;
-    margin-top: 50px;
+    margin-left: 770px;
+    margin-top: 30px;
 }
+#send{
+    margin-left: 280px;
+    margin-top: 40px;
+   width: 100px;
+   height: 50px;
+   background-color: rgba(0, 0, 255, 0.836);
+}
+.tbclogo{
+    position: absolute;
+}
+ .okroslake{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 3px;
+ }
+ .okroslake h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: green;
+    font-style: oblique;
+ }
+ .kolkheti{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 280px;
+ }
+   .kolkheti h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: green;
+    font-style: oblique;
+   }
+  .paliastomilake{
+   position: absolute;
+    margin-left: 900px;
+    margin-top: 150px;
+  }
+   .paliastomilake a{
+    position: absolute;
+   }
+  .paliastomilake h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: rgb(16, 226, 16);
+    font-style: oblique;
+  }
+  .church{
+    margin-left: 60px;
+    margin-top: 60px;
+    
+  }
+  .church h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: rgb(214, 0, 0);
+    font-style: oblique;
+
+  }
+    .index3body{
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+    }
+    #submit{
+        background-color: blue;
+    }
+    .tbc{
+        position: absolute;
+        margin-left: 880px;
+        margin-top: 430px;
+    }
+    .churchinfo {
+        display: flex;
+        margin-top: 60px;
+        margin-left: 40px;
+    }
+    .index6body{
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+    }
+      .churchinfo p{
+        margin-top: 100px;
+        margin-left: 400px;
+        color: yellow;
+         background-color:rgba(127, 255, 212, 0.603);
+         width: 400px;
+        height: 450px;
+        border-radius: 30px;
+      }
+      .interier{
+        margin-left: 430px;
+        position: absolute;
+        margin-top: 100px;
+        width: 296px;
+      }
+      .garden{
+        position: absolute;
+        margin-top: 300px;
+        margin-left: 430px;
+      }
+      .churchtitle{
+        position: absolute;
+        margin-left: 470px;
+        font-size: 80px;
+        color: rgba(255, 255, 0, 0.911);
+        font-style: oblique;
+
+      }
+      .okrolaketitle{
+        font-size: 80px;
+        color: rgba(255, 255, 0, 0.911);
+        font-style: oblique;
+        margin-left: 430px;
+        margin-top: 40px;
+      }
+        .okrolakeinfo{
+           position: absolute;
+            display: flex;
+            flex-direction: column;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+   .okrolakep{
+    position: absolute;
+    color: yellow;
+         background-color:rgba(127, 255, 212, 0.603);
+         width: 450px;
+        height: 560px;
+        border-radius: 30px;
+        margin-left: 790px;
+        margin-top: 140px;
+        font-size: 25px;
+   }
+    .kolkhetiparkinfo {
+        display: flex;
+        margin-left: 30px;
+        margin-top: 1030px;
+    }
+    .kolhetisparktitle{
+        font-style: oblique;
+        font-size: 60px;
+        color: rgba(255, 255, 0, 0.911);
+        position: absolute;
+        margin-top:930px ;
+        margin-left: 270px;
+    }
+    .kolkhetiparkinfo p{
+        color: yellow;
+         background-color:rgba(127, 255, 212, 0.603);
+         width: 400px;
+        height: 450px;
+        border-radius: 30px;
+        margin-left: 40px;
+        font-size: 20px;
+    }
