@@ -1,399 +1,445 @@
 ul{
-margin-left: 100px;
-      
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: baseline;
-}
-li{
-    line-height:19.55px;
-    width:129px ;
-    height: 20px;
-    color:#636060;}
-    a{
-        color: black;
-    
-    }
-    a:hover {
-    color:rgb(136, 255, 0);
-
-      }
-     
-     
-
-    
-     .droni{
-        
-       position: absolute;
-        width:100%;
-       
-     }
-     .littparis{
-        color:rgba(5, 235, 5, 0.685);
-        margin-top: 220px;
-        margin-left: 235px;
-        position: absolute;
-        font-size:80px;
-     }
-     .index2body{
-     
-        background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
-
-     }
-    .explore{
-       
-       
-        color:rgb(126, 197, 221);
-        font-size: 130px;
-        
-        margin-left: 550px;
-    }
-    .poti{
-        font-style: oblique;
-    position: absolute;
-    color:rgb(13, 182, 238);
-        font-size: 200px;
-        margin-left: 840px;
-    }
-    .info p{
-       
-        color: rgb(3, 3, 139);
-        margin-left: 7px;
-    }
-    .info{
-        position: absolute;
-        border-radius: 10px;
-        background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
-        width: 450px;
-        height: 52px;
-        margin-left:15px
-    }
-   
-     
-    .infofortourist p{
-        
-        color: rgb(3, 3, 139);
-    } 
-    .infofortourist{
-        position: absolute;
-        border-radius: 10px;
-        background: rgb(2,0,36);
-     
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
-        margin-top: 80px;
-        margin-left:170px;
-        width: 300px;
-        height: 52px;
-    }
-    .location{
-        margin-left:40px;
-        position: absolute;
-        border-radius: 10px;
-        background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
-        margin-top:160px ;
-        width: 300px;
-        height: 120px;
-    }
-    .location p{
-        color: rgb(3, 3, 139);
-        margin-left: 15px;
-        margin-top: 6px;
-    }
-#vrclad{
-    position: absolute;
-    margin-top: 6px;
-    margin-left:210px ;
-    background-color:blue ;
-
-
-}
-#mappin{
-    margin-left: 190px;
-}
-.emotions label{
-   
-    color: blue;
-}
-#idea{
-    position: absolute;
-    width: 270px;
-    height: 130px;
-}
-.emotions{
-   
-    width: 400px;
-    margin-left: 770px;
-    margin-top: 30px;
-}
-#send{
-    margin-left: 280px;
-    margin-top: 40px;
-   width: 100px;
-   height: 50px;
-   background-color: rgba(0, 0, 255, 0.836);
-}
-.tbclogo{
-    position: absolute;
-}
- .okroslake{
-    position: absolute;
-    margin-left: 550px;
-    margin-top: 3px;
- }
- .okroslake h1{
-    position: absolute;
-    margin-top: 10px;
-    margin-left: 20px;
-    color: green;
-    font-style: oblique;
- }
- .kolkheti{
-    position: absolute;
-    margin-left: 550px;
-    margin-top: 280px;
- }
-   .kolkheti h1{
-    position: absolute;
-    margin-top: 10px;
-    margin-left: 20px;
-    color: green;
-    font-style: oblique;
-   }
-  .paliastomilake{
-   position: absolute;
-    margin-left: 900px;
-    margin-top: 150px;
-  }
-   .paliastomilake a{
-    position: absolute;
-   }
-  .paliastomilake h1{
-    position: absolute;
-    margin-top: 10px;
-    margin-left: 20px;
-    color: rgb(16, 226, 16);
-    font-style: oblique;
-  }
-  .church{
-    margin-left: 60px;
-    margin-top: 60px;
-    
-  }
-  .church h1{
-    position: absolute;
-    margin-top: 10px;
-    margin-left: 20px;
-    color: rgb(214, 0, 0);
-    font-style: oblique;
-
-  }
-    .index3body{
-        background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
-    }
-    #submit{
-        background-color: blue;
-    }
-    .tbc{
-        position: absolute;
-        margin-left: 880px;
-        margin-top: 430px;
-    }
-    .churchinfo {
+    margin-left: 100px;
+          
+        display: -webkit-box;
+          
+        display: -ms-flexbox;
+          
         display: flex;
-        margin-top: 60px;
-        margin-left: 40px;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+                justify-content: flex-end;
+        -webkit-box-align: baseline;
+            -ms-flex-align: baseline;
+                align-items: baseline;
     }
-    .index6body{
-        background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
-    }
-      .churchinfo p{
-        margin-top: 100px;
-        margin-left: 400px;
-        color: yellow;
-         background-color:rgba(127, 255, 212, 0.603);
-         width: 400px;
-        height: 450px;
-        border-radius: 30px;
-      }
-      .interier{
-        margin-left: 430px;
-        position: absolute;
-        margin-top: 100px;
-        width: 296px;
-      }
-      .garden{
-        position: absolute;
-        margin-top: 300px;
-        margin-left: 430px;
-      }
-      .churchtitle{
-        position: absolute;
-        margin-left: 470px;
-        font-size: 80px;
-        color: rgba(255, 255, 0, 0.911);
-        font-style: oblique;
-
-      }
-      .okrolaketitle{
-        font-size: 80px;
-        color: rgba(255, 255, 0, 0.911);
-        font-style: oblique;
-        margin-left: 430px;
-        margin-top: 40px;
-      }
-        .okrolakeinfo{
-           position: absolute;
-            display: flex;
-            flex-direction: column;
-            margin-left: 30px;
-            margin-top: 30px;
+    li{
+        line-height:19.55px;
+        width:129px ;
+        height: 20px;
+        color:#636060;}
+        a{
+            color: black;
+        
         }
-   .okrolakep{
-    position: absolute;
-    color: yellow;
-         background-color:rgba(127, 255, 212, 0.603);
-         width: 450px;
-        height: 560px;
-        border-radius: 30px;
-        margin-left: 790px;
-        margin-top: 140px;
-        font-size: 25px;
-   }
-    .kolkhetiparkinfo {
-        display: flex;
-        margin-left: 30px;
-        margin-top: 1030px;
-    }
-    .kolhetisparktitle{
-        font-style: oblique;
-        font-size: 60px;
-        color: rgba(255, 255, 0, 0.911);
-        position: absolute;
-        margin-top:930px ;
-        margin-left: 270px;
-    }
-    .kolkhetiparkinfo p{
-        color: yellow;
-         background-color:rgba(127, 255, 212, 0.603);
-         width: 400px;
-        height: 450px;
-        border-radius: 30px;
-        margin-left: 40px;
-        font-size: 20px;
-    }
-    .paliastomilakeifo{
-        position: absolute;
-        display: flex;
-        margin-left: 30px;
-
-    }
-    .paliastomistba{
-        position: absolute;
-        margin-top: 100px;
-        margin-left: 30px;
-      
+        a:hover {
+        color:rgb(136, 255, 0);
+    
+          }
+         
+         
+    
         
+         .droni{
+            
+           position: absolute;
+            width:100%;
+           
+         }
+         .littparis{
+            color:rgba(5, 235, 5, 0.685);
+            margin-top: 220px;
+            margin-left: 235px;
+            position: absolute;
+            font-size:80px;
+         }
+         .index2body{
+         
+            background: rgb(2,0,36);
+    background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(23%, rgba(9,9,121,1)), to(rgba(0,212,255,1)));
+    background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
+    
+         }
+        .explore{
+           
+           
+            color:rgb(126, 197, 221);
+            font-size: 130px;
+            
+            margin-left: 550px;
+        }
+        .poti{
+            font-style: oblique;
+        position: absolute;
+        color:rgb(13, 182, 238);
+            font-size: 200px;
+            margin-left: 840px;
+        }
+        .info p{
+           
+            color: rgb(3, 3, 139);
+            margin-left: 7px;
+        }
+        .info{
+            position: absolute;
+            border-radius: 10px;
+            background: rgb(2,0,36);
+            background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(0%, rgba(26,86,163,1)), color-stop(52%, rgba(0,212,255,1)));
+            background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            width: 450px;
+            height: 52px;
+            margin-left:15px
+        }
+       
+         
+        .infofortourist p{
+            
+            color: rgb(3, 3, 139);
+        } 
+        .infofortourist{
+            position: absolute;
+            border-radius: 10px;
+            background: rgb(2,0,36);
+         
+            background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(0%, rgba(26,86,163,1)), color-stop(52%, rgba(0,212,255,1)));
+         
+            background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+         
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            margin-top: 80px;
+            margin-left:170px;
+            width: 300px;
+            height: 52px;
+        }
+        .location{
+            margin-left:40px;
+            position: absolute;
+            border-radius: 10px;
+            background: rgb(2,0,36);
+            background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(0%, rgba(26,86,163,1)), color-stop(52%, rgba(0,212,255,1)));
+            background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            margin-top:160px ;
+            width: 300px;
+            height: 120px;
+        }
+        .location p{
+            color: rgb(3, 3, 139);
+            margin-left: 15px;
+            margin-top: 6px;
+        }
+    #vrclad{
+        position: absolute;
+        margin-top: 6px;
+        margin-left:210px ;
+        background-color:blue ;
+    
+    
+    }
+    #mappin{
+        margin-left: 190px;
+    }
+    .emotions label{
+       
+        color: blue;
+    }
+    #idea{
+        position: absolute;
+        width: 270px;
+        height: 130px;
+    }
+    .emotions{
+       
+        width: 400px;
+        margin-left: 770px;
+        margin-top: 30px;
+    }
+    #send{
+        margin-left: 280px;
+        margin-top: 40px;
+       width: 100px;
+       height: 50px;
+       background-color: rgba(0, 0, 255, 0.836);
+    }
+    .tbclogo{
+        position: absolute;
+    }
+     .okroslake{
+        position: absolute;
+        margin-left: 550px;
+        margin-top: 3px;
+     }
+     .okroslake h1{
+        position: absolute;
+        margin-top: 10px;
+        margin-left: 20px;
+        color: green;
+        font-style: oblique;
+     }
+     .kolkheti{
+        position: absolute;
+        margin-left: 550px;
+        margin-top: 280px;
+     }
+       .kolkheti h1{
+        position: absolute;
+        margin-top: 10px;
+        margin-left: 20px;
+        color: green;
+        font-style: oblique;
+       }
+      .paliastomilake{
+       position: absolute;
+        margin-left: 900px;
+        margin-top: 150px;
+      }
+       .paliastomilake a{
+        position: absolute;
+       }
+      .paliastomilake h1{
+        position: absolute;
+        margin-top: 10px;
+        margin-left: 20px;
+        color: rgb(16, 226, 16);
+        font-style: oblique;
+      }
+      .church{
+        margin-left: 60px;
+        margin-top: 60px;
         
-    }
-    .paliastomilaketitle{
+      }
+      .church h1{
+        position: absolute;
+        margin-top: 10px;
+        margin-left: 20px;
+        color: rgb(214, 0, 0);
         font-style: oblique;
-        font-size: 60px;
-        color: rgba(255, 255, 0, 0.911);
+    
+      }
+        .index3body{
+            background: rgb(2,0,36);
+            background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(0%, rgba(26,86,163,1)), color-stop(52%, rgba(0,212,255,1)));
+            background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+        }
+        #submit{
+            background-color: blue;
+        }
+        .tbc{
+            position: absolute;
+            margin-left: 880px;
+            margin-top: 430px;
+        }
+        .churchinfo {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            margin-top: 60px;
+            margin-left: 40px;
+        }
+        .index6body{
+            background: rgb(2,0,36);
+            background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(0%, rgba(26,86,163,1)), color-stop(52%, rgba(0,212,255,1)));
+            background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+        }
+          .churchinfo p{
+            margin-top: 100px;
+            margin-left: 400px;
+            color: yellow;
+             background-color:rgba(127, 255, 212, 0.603);
+             width: 400px;
+            height: 450px;
+            border-radius: 30px;
+          }
+          .interier{
+            margin-left: 430px;
+            position: absolute;
+            margin-top: 100px;
+            width: 296px;
+          }
+          .garden{
+            position: absolute;
+            margin-top: 300px;
+            margin-left: 430px;
+          }
+          .churchtitle{
+            position: absolute;
+            margin-left: 470px;
+            font-size: 80px;
+            color: rgba(255, 255, 0, 0.911);
+            font-style: oblique;
+    
+          }
+          .okrolaketitle{
+            font-size: 80px;
+            color: rgba(255, 255, 0, 0.911);
+            font-style: oblique;
+            margin-left: 430px;
+            margin-top: 40px;
+          }
+            .okrolakeinfo{
+               position: absolute;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                    -ms-flex-direction: column;
+                        flex-direction: column;
+                margin-left: 30px;
+                margin-top: 30px;
+            }
+       .okrolakep{
         position: absolute;
-        margin-top: 25px;
-        margin-left: 370px;
-    }
-    .paliastomilake2{
-        position: absolute;
-        margin-top: 500px;
-        margin-left: 30px;
-    }
-    .paliastomilakep{
-        position:absolute;
-        margin-top: 100px;
         color: yellow;
-         background-color:rgba(127, 255, 212, 0.603);
-         width: 500px;
-        height: 640px;
-        border-radius: 30px;
-        margin-left: 650px;
-        font-size: 30px;
-
-    }
-    .title {
-        display: flex;
-       margin-top: 50px;
-       margin-left: 70px;
-    }
-    .title h1{
-        font-style: oblique;
-        font-size: 80px;
-        color: rgba(212, 5, 5, 0.623);
-        margin-top:15px ;
-        margin-left:50px;
-    }
-    .index4body{
-        background: rgb(253,29,29);
-        background: linear-gradient(90deg, rgba(253,29,29,1) 13%, rgba(211,184,230,1) 91%, rgba(252,176,69,1) 100%);
-    }
-    .sales {
-        font-size: 25px;
-        font-style: oblique;
-        color: rgb(121, 3, 3);
-          margin-left: 200px;
-          margin-top: 40px;
-    }
-    .sales h1{
-        margin-top: 20px;
-        margin-left: 265px;
-
-    }
-    .sales h2{
-        margin-top:20px;
-    }
-   .logo{
-    position: absolute;
-    margin-top: 200px;
-    margin-left: 1000px;
-   }
-   #next{
-    position: absolute;
-    background-color: red;
-    margin-left: 60px;
-   }
-   #shemdegi{
-    margin-top: 800px;
-    margin-left: 1200px;
-    background-color: aqua;
-   }
-   .index5body{
-    background: rgb(2,0,36);
-        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
-   }
-   .contact{
-    color: yellow;
-    font-size: 40px;
-    margin-top: 80px;
-    margin-left: 80px;
-   }
-   .contactinfo{
-    font-size: 20px;
-    margin-top: 10px;
-    margin-left: 80px;
-   }
-    .contactlist{
-        display: flex;
-        align-items: center;
-
-        font-size: 20px;
+             background-color:rgba(127, 255, 212, 0.603);
+             width: 450px;
+            height: 560px;
+            border-radius: 30px;
+            margin-left: 790px;
+            margin-top: 140px;
+            font-size: 25px;
+       }
+        .kolkhetiparkinfo {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            margin-left: 30px;
+            margin-top: 1030px;
+        }
+        .kolhetisparktitle{
+            font-style: oblique;
+            font-size: 60px;
+            color: rgba(255, 255, 0, 0.911);
+            position: absolute;
+            margin-top:930px ;
+            margin-left: 270px;
+        }
+        .kolkhetiparkinfo p{
+            color: yellow;
+             background-color:rgba(127, 255, 212, 0.603);
+             width: 400px;
+            height: 450px;
+            border-radius: 30px;
+            margin-left: 40px;
+            font-size: 20px;
+        }
+        .paliastomilakeifo{
+            position: absolute;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            margin-left: 30px;
+    
+        }
+        .paliastomistba{
+            position: absolute;
+            margin-top: 100px;
+            margin-left: 30px;
+          
+            
+            
+        }
+        .paliastomilaketitle{
+            font-style: oblique;
+            font-size: 60px;
+            color: rgba(255, 255, 0, 0.911);
+            position: absolute;
+            margin-top: 25px;
+            margin-left: 370px;
+        }
+        .paliastomilake2{
+            position: absolute;
+            margin-top: 500px;
+            margin-left: 30px;
+        }
+        .paliastomilakep{
+            position:absolute;
+            margin-top: 100px;
+            color: yellow;
+             background-color:rgba(127, 255, 212, 0.603);
+             width: 500px;
+            height: 640px;
+            border-radius: 30px;
+            margin-left: 650px;
+            font-size: 30px;
+    
+        }
+        .title {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+           margin-top: 50px;
+           margin-left: 70px;
+        }
+        .title h1{
+            font-style: oblique;
+            font-size: 80px;
+            color: rgba(212, 5, 5, 0.623);
+            margin-top:15px ;
+            margin-left:50px;
+        }
+        .index4body{
+            background: rgb(253,29,29);
+            background: -webkit-gradient(linear, left top, right top, color-stop(13%, rgba(253,29,29,1)), color-stop(91%, rgba(211,184,230,1)), to(rgba(252,176,69,1)));
+            background: -o-linear-gradient(left, rgba(253,29,29,1) 13%, rgba(211,184,230,1) 91%, rgba(252,176,69,1) 100%);
+            background: linear-gradient(90deg, rgba(253,29,29,1) 13%, rgba(211,184,230,1) 91%, rgba(252,176,69,1) 100%);
+        }
+        .sales {
+            font-size: 25px;
+            font-style: oblique;
+            color: rgb(121, 3, 3);
+              margin-left: 200px;
+              margin-top: 40px;
+        }
+        .sales h1{
+            margin-top: 20px;
+            margin-left: 265px;
+    
+        }
+        .sales h2{
+            margin-top:20px;
+        }
+       .logo{
+        position: absolute;
+        margin-top: 200px;
+        margin-left: 1000px;
+       }
+       #next{
+        position: absolute;
+        background-color: red;
+        margin-left: 60px;
+       }
+       #shemdegi{
+        margin-top: 800px;
+        margin-left: 1200px;
         background-color: aqua;
-        margin-top: 370px;
-        height: 60px;
-    }
+       }
+       .index5body{
+        background: rgb(2,0,36);
+            background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(0%, rgba(26,86,163,1)), color-stop(52%, rgba(0,212,255,1)));
+            background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,86,163,1) 0%, rgba(0,212,255,1) 52%);
+       }
+       .contact{
+        color: yellow;
+        font-size: 40px;
+        margin-top: 80px;
+        margin-left: 80px;
+       }
+       .contactinfo{
+        font-size: 20px;
+        margin-top: 10px;
+        margin-left: 80px;
+       }
+        .contactlist{
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+    
+            font-size: 20px;
+            background-color: aqua;
+            margin-top: 370px;
+            height: 60px;
+        }
    
